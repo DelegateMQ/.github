@@ -28,6 +28,7 @@
 | [active-fsm](https://github.com/DelegateMQ/active-fsm) | Active-object C++ finite state machine with async dispatch and pub/sub signals |
 | [Async-SQLite](https://github.com/DelegateMQ/Async-SQLite) | Asynchronous thread-safe SQLite wrapper using DelegateMQ |
 | [Async-DuckDB](https://github.com/DelegateMQ/Async-DuckDB) | Asynchronous thread-safe DuckDB wrapper using DelegateMQ |
+| [Async-HTTP](https://github.com/DelegateMQ/Async-HTTP) | Asynchronous thread-safe HTTP client wrapper using DelegateMQ |
 
 ## Quick Example
 
